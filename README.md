@@ -1,10 +1,10 @@
-# Douban2Lykk
+# Douban2Lykk [![greasyfork version](https://img.shields.io/greasyfork/v/475995-从豆瓣电影直接跳转懒鱼看看下载资源)](https://greasyfork.org/zh-CN/scripts/475995-从豆瓣电影直接跳转懒鱼看看下载资源) [![greasyfork download](https://img.shields.io/greasyfork/dt/475995-从豆瓣电影直接跳转懒鱼看看下载资源)](https://greasyfork.org/zh-CN/scripts/475995-从豆瓣电影直接跳转懒鱼看看下载资源)
 
 豆瓣 to [懒鱼看看](https://lykk.top) 传送门
 
 ## 功能简介
 
-安装本脚本后，豆瓣电影的标题旁会显示「懒鱼看看」的 Logo，点击就可以直达影视资源云盘下载了。
+安装[本脚本](https://greasyfork.org/zh-CN/scripts/475995-从豆瓣电影直接跳转懒鱼看看下载资源)后，豆瓣电影的标题旁会显示「懒鱼看看」的 Logo，点击就可以直达影视资源云盘下载了。
 
 ![screenshot](https://github.com/lazyfishkk/Douban2Lykk/assets/144580809/206d07ee-f7b1-4224-814d-5a77aaf584e2)
 
