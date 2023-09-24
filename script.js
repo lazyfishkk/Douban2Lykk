@@ -5,6 +5,7 @@
 // @author       lykk
 // @match        *://movie.douban.com/subject/*
 // @description  懒鱼看看是一个云盘资源聚合下载网站。安装脚本后豆瓣电影标题旁会显示懒鱼的logo，点击就可以前往下载影视资源了。
+// @license      MIT
 // ==/UserScript==
 
 (function () {
